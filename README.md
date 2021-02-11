@@ -18,4 +18,4 @@ The way I understand my code and how it works so far:
 8)Turn on your dynos on your server to activate the server to read your code. This switch is essentially an on switch for your code to work.
 9)Sit back, relax and marvel of how much of a genius you are because you've just automated a teenie, tiny part of your day-to-day life.
 
-If you don't know what these steps mean, that's ok, I didn't either, but please understand that this what makes my code run and if I can figure it out, you can too!!
+If you don't know what these steps mean, that's ok, I didn't either, but please understand that this is what makes my code run and if I can figure it out, you can too!!
