@@ -1,5 +1,8 @@
 ﻿# app-weathapp1
 
+
+![what to expect](https://github.com/Robertsonstuff/app-weathapp1/blob/main/Screenshot_20210212_085955_com.huawei.android.launcher.jpg)
+
 This is a Webscraper that will grab real time information and text it to my phone every morning at 7:30am.
 This has taken me a long time to get to a full working project actually working, I'm only new to my coding journey.
 This hasn't been simple or easy in anyway, but I'm hooked!
@@ -20,4 +23,3 @@ The way I understand my code and how it works so far:
 
 If you don't know what these steps mean, that's ok, I didn't either, but please understand that this is what makes my code run and if I can figure it out, you can too!!
 
-![what to expect](https://github.com/Robertsonstuff/app-weathapp1/blob/main/Screenshot_20210212_085955_com.huawei.android.launcher.jpg)
