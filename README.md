@@ -19,3 +19,5 @@ The way I understand my code and how it works so far:
 9)Sit back, relax and marvel of how much of a genius you are because you've just automated a teenie, tiny part of your day-to-day life.
 
 If you don't know what these steps mean, that's ok, I didn't either, but please understand that this is what makes my code run and if I can figure it out, you can too!!
+
+![what to expect](https://github.com/Robertsonstuff/app-weathapp1/blob/main/Screenshot_20210212_085955_com.huawei.android.launcher.jpg)
